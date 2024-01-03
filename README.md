@@ -9,3 +9,6 @@
 
 - RNN을 이용한 주가 예측  
   https://wikidocs.net/173005
+
+- 다른 사람들이 작성한 stock analysis
+  https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Python_Stock/Apply_Mathematics_Trading_Investment
